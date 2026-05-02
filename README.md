@@ -13,3 +13,5 @@ Most of my work lives in private Azure registries, but here's what I've shipped:
   - [Registration](https://registration.draiver.net/)
 
 [LinkedIn](https://linkedin.com/in/higginbg)
+
+Currently open to senior/staff frontend roles — remote or hybrid.
