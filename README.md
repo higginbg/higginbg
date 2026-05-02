@@ -1,16 +1,13 @@
-## Hi there 👋
+# Gabe Higginbotham
 
-<!--
-**higginbg/higginbg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lead Frontend Engineer specializing in React, TypeScript, and design systems.
 
-Here are some ideas to get you started:
+Most of my work lives in private Azure registries, but here's what I've shipped:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Mosaic** — ~100 component design system adopted across all frontend teams at SAIF
+  → [mosaic-dev.saif.com](https://mosaic-dev.saif.com)
+- **Saif.com** — full UX overhaul, 2023 AASCIF Communication Award winner
+  → [www.saif.com](https://www.saif.com)
+- **DRAIVER** — greenfield React/TypeScript replacement for a Salesforce-based app
+
+[LinkedIn](https://linkedin.com/in/higginbg)
